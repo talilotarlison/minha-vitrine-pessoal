@@ -12,8 +12,8 @@
 </div>
 
 
-# minha-vitrine-pessoal
+### minha-vitrine-pessoal
 
-# 🏷️ Informaçãoes do projeto.
+### 🏷️ Informaçãoes do projeto.
 
-## projeto adicional da imersão alura , criação de uma vitrine pessoal com link e informaçao.
+### projeto adicional da imersão alura , criação de uma vitrine pessoal com link e informaçao.
