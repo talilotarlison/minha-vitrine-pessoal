@@ -14,4 +14,6 @@
 
 # minha-vitrine-pessoal
 
-## projeto adicional da imersão alura , criação de uma vitrine pessoal com link e informaçao 
+# 🏷️ Informaçãoes do projeto.
+
+## projeto adicional da imersão alura , criação de uma vitrine pessoal com link e informaçao.
