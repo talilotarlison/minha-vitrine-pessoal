@@ -16,4 +16,7 @@
 
 ### 🏷️ Informaçãoes do projeto.
 
+- HTML
+- CSS
+
 ### projeto adicional da imersão alura , criação de uma vitrine pessoal com link e informaçao.
